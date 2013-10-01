@@ -34,3 +34,8 @@ local.properties
 
 # PDT-specific
 .buildpath
+
+##################################################
+# https://github.com/github/gitignore/blob/master/Maven.gitignore
+##################################################
+target/
